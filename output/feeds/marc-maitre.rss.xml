@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>NickelChromium</title><link>/</link><description></description><atom:link href="/feeds/marc-maitre.rss.xml" rel="self"></atom:link><lastBuildDate>Fri, 25 Sep 2015 10:00:00 +0200</lastBuildDate><item><title>Test post</title><link>/test-post.html</link><description>&lt;p&gt;Hello world.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Marc MAITRE</dc:creator><pubDate>Fri, 25 Sep 2015 10:00:00 +0200</pubDate><guid>tag:,2015-09-25:test-post.html</guid></item></channel></rss>
