@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2015-09-26 10:57+0200\n"
+"POT-Creation-Date: 2015-09-27 09:57+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -47,17 +47,9 @@ msgstr ""
 
 #: templates/base.html:86
 msgid ""
-"Proudly powered by <a href=\"http://getpelican.com/\">Pelican</a>, which "
-"takes great advantage of <a href=\"http://python.org\">Python</a>."
-msgstr ""
-
-#: templates/base.html:87
-msgid ""
-"Sources for this site can be found in the <a "
-"href=\"https://github.com/smartass101/pelican-plugins/tree/gh-"
-"pages_source\">gh-pages_source branch</a> of this <a "
-"href=\"https://github.com/smartass101/pelican-plugins\">plugin "
-"repository<a/>."
+"Powered by <a href=\"http://getpelican.com/\">Pelican</a>, I use the "
+"notmyidea theme with the <a href=\"https://github.com/getpelican/pelican-"
+"plugins/tree/master/i18n_subsites\">i18n_subsites</a> plugin."
 msgstr ""
 
 #: templates/index.html:20

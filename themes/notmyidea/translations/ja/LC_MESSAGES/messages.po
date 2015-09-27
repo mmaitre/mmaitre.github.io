@@ -1,4 +1,4 @@
-# French translations for PROJECT.
+# Japanese translations for PROJECT.
 # Copyright (C) 2015 ORGANIZATION
 # This file is distributed under the same license as the PROJECT project.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2015.
@@ -8,10 +8,10 @@ msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
 "POT-Creation-Date: 2015-09-27 09:57+0200\n"
-"PO-Revision-Date: 2015-09-27 10:29+0200\n"
+"PO-Revision-Date: 2015-09-27 09:59+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: fr <LL@li.org>\n"
-"Plural-Forms: nplurals=2; plural=(n > 1)\n"
+"Language-Team: ja <LL@li.org>\n"
+"Plural-Forms: nplurals=1; plural=0\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -19,31 +19,31 @@ msgstr ""
 
 #: templates/article_infos.html:3
 msgid "Published"
-msgstr "Publié le"
+msgstr "公開された"
 
 #: templates/article_infos.html:8
 msgid "Updated"
-msgstr "Mis à jour le"
+msgstr "更新"
 
 #: templates/article_infos.html:14
 msgid "By"
-msgstr "Par"
+msgstr "によって"
 
 #: templates/article_infos.html:17
 msgid "In"
-msgstr "Dans"
+msgstr "に"
 
 #: templates/article_infos.html:17
 msgid "get the pdf"
-msgstr "obtenir le pdf"
+msgstr "PDFファイルを取得します"
 
 #: templates/base.html:57
 msgid "links"
-msgstr "liens"
+msgstr "リンク"
 
 #: templates/base.html:67
 msgid "social"
-msgstr "réseaux sociaux"
+msgstr "社会的ネットワーク"
 
 #: templates/base.html:86
 msgid ""
@@ -51,30 +51,31 @@ msgid ""
 "notmyidea theme with the <a href=\"https://github.com/getpelican/pelican-"
 "plugins/tree/master/i18n_subsites\">i18n_subsites</a> plugin."
 msgstr ""
-"Créer avec <a href=\"http://getpelican.com/\">Pelican</a>, j'utilise "
-"le theme notmyidea avec le plug-in <a href=\"https://github.com/getpelican/pelican-plugins/tree/master/i18n_subsites\">i18n_subsites</a>."
- 
+"<a href=\"http://getpelican.com/\">Pelican</a>を搭載し,"
+"私は<a href=\"https://github.com/getpelican/pelican-plugins/tree/master/i18n_subsites\">i18n_subsites</a>プラグインと"
+"notmyideaテーマを使用しています。"
+
 #: templates/index.html:20
 msgid "Other articles"
-msgstr "Autres articles"
+msgstr "その他の記事"
 
 #: templates/index.html:39
 msgid "read more"
-msgstr "lire plus"
+msgstr "続きを読む"
 
 #: templates/index.html:55
 msgid "Pages"
-msgstr "Pages"
+msgstr "ページ"
 
 #: templates/pagination.html:6
 msgid "Page"
-msgstr "Page"
+msgstr "ページ"
 
 #: templates/taglist.html:1
 msgid "tags"
-msgstr "libellés"
+msgstr "タグ"
 
 #: templates/translations.html:3
 msgid "Translations"
-msgstr "Traductions"
+msgstr "翻訳"
 

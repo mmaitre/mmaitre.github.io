@@ -48,6 +48,11 @@ I18N_SUBSITES = {
             'SITENAME': 'NickelChromium',
              'LOCALE' : 'fr_FR.UTF-8',
             },
+        'ja': {
+            'SITENAME': 'NickelChromium',
+             'LOCALE' : 'ja_JP.UTF-8',
+            },
+
         }
 
 
@@ -58,6 +63,7 @@ OUTPUT_SOURCES = True
 languages_lookup = {
     'en': 'English',
     'fr': 'Français',
+    'ja': '日本語',
     }
 
 def lookup_lang_name(lang_code):
