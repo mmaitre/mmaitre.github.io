@@ -41,13 +41,12 @@ THEME = 'themes/notmyidea/'
 
 DEFAULT_LANG = "en"
 
-LOCALE = 'en_US'
+LOCALE = 'en_US.UTF-8'
 
 I18N_SUBSITES = {
         'fr': { 
             'SITENAME': 'NickelChromium',
-#LOCALE = 'fr_FR'
-
+             'LOCALE' : 'fr_FR.UTF-8',
             },
         }
 
