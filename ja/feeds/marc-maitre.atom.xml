@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>NickelChromium</title><link href="http://mmaitre.github.io/ja/" rel="alternate"></link><link href="http://mmaitre.github.io/feeds/marc-maitre.atom.xml" rel="self"></link><id>http://mmaitre.github.io/ja/</id><updated>2015-09-25T10:00:00+02:00</updated><entry><title>記事のテスト</title><link href="http://mmaitre.github.io/ja/test-post.html" rel="alternate"></link><updated>2015-09-25T10:00:00+02:00</updated><author><name>Marc MAITRE</name></author><id>tag:mmaitre.github.io,2015-09-25:ja/test-post.html</id><summary type="html">&lt;p&gt;皆さんこんにちは。&lt;/p&gt;
+</summary></entry></feed>
