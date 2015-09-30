@@ -43,6 +43,10 @@ DEFAULT_LANG = "en"
 
 LOCALE = 'en_US.UTF-8'
 
+DATE_FORMATS = {
+    'ja':'%Y年%b%d日(%A)',
+}
+
 I18N_SUBSITES = {
         'fr': { 
             'SITENAME': 'NickelChromium',

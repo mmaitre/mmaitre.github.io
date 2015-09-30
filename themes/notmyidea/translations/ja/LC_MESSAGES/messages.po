@@ -19,7 +19,7 @@ msgstr ""
 
 #: templates/article_infos.html:3
 msgid "Published"
-msgstr "公開された"
+msgstr "公開日"
 
 #: templates/article_infos.html:8
 msgid "Updated"
@@ -27,11 +27,11 @@ msgstr "更新"
 
 #: templates/article_infos.html:14
 msgid "By"
-msgstr "によって"
+msgstr "By"
 
 #: templates/article_infos.html:17
 msgid "In"
-msgstr "に"
+msgstr "カテゴリー"
 
 #: templates/article_infos.html:17
 msgid "get the pdf"
@@ -43,7 +43,7 @@ msgstr "リンク"
 
 #: templates/base.html:67
 msgid "social"
-msgstr "社会的ネットワーク"
+msgstr "リンク"
 
 #: templates/base.html:86
 msgid ""
@@ -51,9 +51,9 @@ msgid ""
 "notmyidea theme with the <a href=\"https://github.com/getpelican/pelican-"
 "plugins/tree/master/i18n_subsites\">i18n_subsites</a> plugin."
 msgstr ""
-"<a href=\"http://getpelican.com/\">Pelican</a>を搭載し,"
-"私は<a href=\"https://github.com/getpelican/pelican-plugins/tree/master/i18n_subsites\">i18n_subsites</a>プラグインと"
-"notmyideaテーマを使用しています。"
+"<a href=\"http://getpelican.com/\">Pelican</a>にて"
+"<a href=\"https://github.com/getpelican/pelican-plugins/tree/master/i18n_subsites\">i18n_subsites</a>のプラグインと"
+"notmyideaのデザインを使用してウエブサイトを作っています。"
 
 #: templates/index.html:20
 msgid "Other articles"
